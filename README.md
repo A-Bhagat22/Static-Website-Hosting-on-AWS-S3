@@ -1,3 +1,4 @@
+- [Project 01 – S3 Static Hosting](01-s3-static-website-hosting) – [Live Site](http://neogym‑...amazonaws.com)
 
 # Project 01 – Static Website Hosting on AWS S3
 
